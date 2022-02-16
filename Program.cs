@@ -1,4 +1,4 @@
-// See https://aka.ms/new-console-template for more information
+// Equality of two lines
 using System;
 
 namespace Line_Comparison
