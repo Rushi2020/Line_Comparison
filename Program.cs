@@ -1,4 +1,4 @@
-// COmpare two lines so i know equal, greater or less than the other line
+// See https://aka.ms/new-console-template for more information
 using System;
 
 namespace Line_Comparison
